@@ -38,7 +38,7 @@ import java.util.List;
 /**
  * Example of authorizing with BigQuery and reading from a public dataset.
  */
-public class BigQueryJavaGettingStarted {
+public class main {
 
   // [START credentials]
   /////////////////////////
