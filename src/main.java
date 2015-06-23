@@ -40,17 +40,6 @@ import java.util.List;
  */
 public class main {
 
-  // [START credentials]
-  /////////////////////////
-  // CHANGE ME!
-  // USER GENERATED VALUES: you must fill in values specific to your application.
-  //
-  // Visit https://cloud.google.com/console to create a Project and generate an
-  // OAuth 2.0 Client ID and Secret.
-  // See the README for more info.
-  // Then, add the Project ID below, and point the CLIENTSECRETS_LOCATION file
-  // to the file you downloaded.
-  /////////////////////////
   private static final String PROJECT_ID = "ringed-bebop-88915";
   private static final String CLIENTSECRETS_LOCATION = "/Users/mattiaiodice/Desktop/lm/client_secrets.json";
 
